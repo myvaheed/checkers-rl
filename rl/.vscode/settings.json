@@ -1,0 +1,7 @@
+{
+    "python.venvFolders": [
+        "/home/myvaheed/.virtualenvs/"
+    ],
+    "python.venvPath": "/home/myvaheed/.virtualenvs/",
+    "python.pythonPath": "/home/myvaheed/.virtualenvs/checkers/bin/python"
+}
